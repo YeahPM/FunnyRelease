@@ -1,2 +1,2 @@
-*v1.1.6 Update:*
- - Add the function of unlocking all map shrines
+*v1.1.7 Update:*
+ - Just changed some UI
