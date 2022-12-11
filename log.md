@@ -1,3 +1,3 @@
-*v2.0.0 Update:*
- - Support 207940 version
- - Key Change
+*v2.0.1 Update:*
+ - Add some interesting features
+
