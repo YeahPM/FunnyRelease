@@ -3,3 +3,4 @@
  - Added the feature of saving "favorite locations"
  - Now you can choose to teleport to the player's location
  - Sheet music files can be deleted
+ - Fix an issue that caused the game to crash
