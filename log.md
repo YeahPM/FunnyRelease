@@ -1,3 +1,3 @@
-*v2.0.3 Update:*
- - Music Sheet can now be imported via the file selector
- - Requires the latest version of Canvas support
+*v2.0.4 Update:*
+ - Add the chat encryption function.
+ - Set the same encryption key as your friend and your conversation will be unreadable to others
